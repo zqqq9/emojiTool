@@ -12,11 +12,11 @@
 
 ## 技术栈
 
-- Next.js 12.3.4
-- React 17.0.2
-- TypeScript 4.9.5
+- Next.js 14.0.0
+- React 18.2.0
+- TypeScript 5.1.6
 - Tailwind CSS 3.3.2
-- Node.js 14.17.4
+- Node.js 18+
 
 ## 安装
 
