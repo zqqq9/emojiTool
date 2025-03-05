@@ -1,4 +1,3 @@
-
 # emojiTool
 =======
 # Emoji 制作工具
@@ -13,10 +12,11 @@
 
 ## 技术栈
 
-- Next.js 14
-- React 18
-- TypeScript
-- Tailwind CSS
+- Next.js 12.3.4
+- React 17.0.2
+- TypeScript 4.9.5
+- Tailwind CSS 3.3.2
+- Node.js 14.17.4
 
 ## 安装
 
@@ -51,5 +51,4 @@ npm start
 
 ## 许可证
 
-MIT 
-
+MIT
